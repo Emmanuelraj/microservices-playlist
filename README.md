@@ -1,7 +1,9 @@
 # microservices-playlist
 Spring-boot-docker
 
-# Docker prior 
+hub.docker.com  --> search any repo
+
+# Docker prior :
        create an docker account
        install & run docker daemon
        create Dockerfile in application in rootdir
