@@ -7,7 +7,7 @@ Spring-boot-docker
        create Dockerfile in application in rootdir
        
 # commands :
-       mvn clean install (if spring+maven app) 
+       mvn clean install (if spring+maven app)  specify pom.xml finalName tag
        
        docker build -f Dockerfile -t spring-boot-docker .
        
