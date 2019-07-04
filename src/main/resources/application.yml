@@ -8,5 +8,5 @@ spring:
    application:
       name: spring-boot-eureka-client
 server:
-      port:9090      
+      port:9091      
       
